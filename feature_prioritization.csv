@@ -1,0 +1,6 @@
+Feature,Reach,Impact,Confidence,Effort,RICE Score
+Automated Rollback,4,5,4,3,26.666666666666668
+Logging & Monitoring,5,4,5,4,25.0
+Security Patch Automation,3,5,5,3,25.0
+Database Optimization,4,4,4,4,16.0
+Blue-Green Deployment,3,5,3,5,9.0
